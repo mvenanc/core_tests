@@ -38,6 +38,7 @@ namespace WebAPIClient {
                 Console.WriteLine (repo.Watchers);
                 Console.WriteLine (repo.LastPush);
                 Console.WriteLine ();
+                Console.WriteLine ();
             }
 
         }
