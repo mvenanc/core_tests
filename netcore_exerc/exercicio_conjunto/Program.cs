@@ -35,7 +35,7 @@ namespace exercicio_conjunto
 
             A.UnionWith(B);
             foreach(int x in A){
-                Console.WriteLine(x); //item de conjunto nao é acessivel por indice. Primeira alteracao. Segunda alteracao.
+                Console.WriteLine(x); //item de conjunto nao é acessivel por indice. Primeira alteracao. Segunda alteracao. Terceira alteracao
 
             }            
 
