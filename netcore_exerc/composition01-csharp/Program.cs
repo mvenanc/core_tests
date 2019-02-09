@@ -33,7 +33,7 @@ namespace composition01_csharp {
                 HourContract contract = new HourContract (date, valuePerHour, hours);
                 worker.AddContract (contract);
             }
-
+            //commit
             Console.WriteLine ();
             Console.Write ("Enter month and year to calculate income (MM/YYYY): ");
             string monthAndYear = Console.ReadLine ();
